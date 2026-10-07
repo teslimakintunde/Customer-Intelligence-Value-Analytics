@@ -195,3 +195,49 @@ allowing management to move from understanding **who the customers are**, to ide
 |--------------|---------------------------------------------------|
 | **MySQL**    | Data cleaning, transformation, RFM, CLV & modelling |
 | **Power BI** | Interactive dashboard, visualisation & executive reporting |
+
+
+
+
+---
+### Dashboard 1: Customer Demographics & Segmentation
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac65b76ff0845295314b220_Screenshot%20(11).png" alt="Profile Banner" width="100%"/>
+</p>
+
+### Dashboard 2: RFM Segmentation
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac65b76642a4ac25f043813_Screenshot%20(18).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+### Dashboard 3: Customer Lifetime Value & Health
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac65b765d600cae8ec3d482_Screenshot%20(17).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+### Dashboard 4: Customer Revenue Tiers & Pricing Policy
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6ac65b76c4c2c4b2e84c5ab5_Screenshot%20(16).png" alt="Profile Banner" width="100%"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
